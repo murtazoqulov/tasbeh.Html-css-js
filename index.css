@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.countenr {
+    width: 1300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+.h2 {
+    width: 250px;
+    height: auto;
+    margin: 0 auto;
+    padding: 200px 0 0 0px;
+    margin-left: 350px;
+    z-index: 10;
+}
+
+
+
+.img {
+    background-image: url(./img/photo_2024-03-02_13-40-38.jpg);
+    background-repeat: no-repeat;
+    width: 720px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+
+
+}
+
+.on {
+    position: absolute;
+    margin: 315px 0 0 502px;
+    background-color: #ededed;
+    width: 50px;
+    height: 25px;
+    border-radius: 50px;
+    transform: rotate(-50deg);
+    border: 1.5px solid hsl(0, 2%, 56%);
+    border-left: 5px solid rgb(0, 0, 255);
+    cursor: pointer;
+}
+
+.of {
+    position: absolute;
+    margin: 330px 0 0 525px;
+    background-color: #ededed;
+    width: 50px;
+    height: 25px;
+    border-radius: 50px;
+    transform: rotate(-49deg);
+    border: 1.5px solid hsl(0, 2%, 56%);
+    border-left: 5px solid rgb(0, 0, 255);
+    cursor: pointer;
+}
+
+.res {
+    position: absolute;
+    margin: 370px 0 0 460px;
+    background-color: #ededed;
+    width: 62px;
+    height: 35px;
+    border-radius: 50px;
+    transform: rotate(-53deg);
+    border: 1.5px solid hsl(0, 2%, 56%);
+    border-left: 5px solid rgb(0, 0, 255);
+    cursor: pointer;
+}
+
+.sonn {
+    font-size: 35px;
+    padding: 270px 0 0 300px;
+    transform: rotate(-57deg);
+}
+
+
+.fon {
+
+    height: auto;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    display: inline;
+    opacity: -1;
+    margin-top: -250px;
+
+
+
+}
+
+.rig {
+    width: 350px;
+    height: 100%;
+    background-color: #1345e6;
+    position: absolute;
+}
+
